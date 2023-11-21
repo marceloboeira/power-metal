@@ -38,7 +38,7 @@ module PowerMetal
   ]
 
   PREPOSITIONS = [
-    "Through",
+    "through",
     "into",
     "above",
     "beneath",
